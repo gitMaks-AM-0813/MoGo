@@ -283,3 +283,28 @@ font-variant: all-small-caps;
 text-align: center;
 color: #fff;
 }
+/* icons */
+.icon-alarm-icon{
+  width: 37px;
+  height: 37px;
+}
+.icon-Group-icon{
+  width: 37px;
+  height: 37px;
+}
+.icon-display-icon{
+  width: 37px;
+  height: 37px;
+}
+.icon-line-icons{
+  width: 37px;
+  height: 37px;
+}
+.icon-home-icon{
+  width: 37px;
+  height: 37px;
+}
+.icon-digital-marketing-icon{
+  width: 37px;
+  height: 37px;
+}
