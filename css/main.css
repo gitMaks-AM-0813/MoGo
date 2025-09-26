@@ -248,6 +248,7 @@ body {
 
 .header {
   padding-top: 17px;
+  padding-bottom: 12px;
 }
 .header__container {
   display: flex;
